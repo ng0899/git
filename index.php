@@ -4,6 +4,7 @@ $title = 'My Page';
 $name = "Nicolay";
 $birth = "9.3.1979";
 
+
 ?>
 <!DOCTYPE html>
 <html lang="ru">
